@@ -28,7 +28,3 @@ writer = Writer(fps=60, metadata={'artist': 'Me'}, bitrate=1800)
 anim.save('sine_wave.mp4', writer=writer)
 
 #%%
-
-
-#%%
-
